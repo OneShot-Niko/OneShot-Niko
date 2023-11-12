@@ -12,6 +12,6 @@
 
 ## Random memes & stuff
 
-![I want to devour a Dango](https://github.com/Scythn/Scythn/assets/150537842/1f0587fc-b74c-468e-a80c-0ceb1ca1f91d)]
+![I want to devour a Dango](https://github.com/Scythn/Scythn/assets/150537842/1f0587fc-b74c-468e-a80c-0ceb1ca1f91d)
 # meme sources
-https://scratch.mit.edu/users/Zydrolic/#comments-296965111
+https://scratch.mit.edu/users/Zydrolic/#comments-296965111 - My forum alt, by the way.
