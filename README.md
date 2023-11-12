@@ -8,3 +8,10 @@
 [Scratch (Original Main)](https://scratch.mit.edu/users/ImARealDogNow/) - [Scratch (Later Main)](https://scratch.mit.edu/users/Existant_/) - [Scratch (Later again Main)](https://scratch.mit.edu/users/ImARealDogNow/) - [Scratch (Later Main)](https://scratch.mit.edu/users/SlackinOff/) - [Scratch (Namesnipe)](https://scratch.mit.edu/users/Ambigiously/)
 ## Other
 [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary) - [Internetometer](https://internetometer.com/give/50029)
+
+
+## Random memes & stuff
+
+![I want to devour a Dango](https://github.com/Scythn/Scythn/assets/150537842/1f0587fc-b74c-468e-a80c-0ceb1ca1f91d)]
+# meme sources
+https://scratch.mit.edu/users/Zydrolic/#comments-296965111
