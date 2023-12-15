@@ -7,9 +7,9 @@
   # Table of Contents
 </div>
 
-- [Table of Contents](#table-of-contents) - You are literally here, what else should I say?
+- [Table of Contents](#table-of-contents) - You are here. EOF. (End of File)
 
-- [Who am I?](#who-am-i) - about me or something.
+- [Who am I?](#who-am-i) - About me, I guess.
 
   - [Places I can be found on](#places-i-can-be-found-on) - Where I can be found.
 
@@ -19,8 +19,7 @@
   ## Who am I?
 I'm Zydrolic, formerly ImARealDogNow, I used to have much older yet cringier names, however I wish to move on from them.
 <br>I'm Hungarian, I really do not like puns based on country names, please don't do them, they aren't funny.<br>
-I mainly edit `README.md` files because I've done 2 PRs and both are about a read me markdown file, I'm too bad at code for actual code.
-
+I am terrible at code, thus I mainly suggest, correct grammar in things, do minor changes and bugtest.
 ### Places I can be found on
 [Scratch (Main)](https://scratch.mit.edu/users/Scynth/) - [Scratch (Forums)](https://scratch.mit.edu/users/Zydrolic) - [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary) - [Internetometer](https://internetometer.com/give/50029) (Internetometer is just a leaderboard of how many people clicked a button for you.)
 
