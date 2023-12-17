@@ -7,26 +7,34 @@
   # Table of Contents
 </div>
 
-- [Table of Contents](#table-of-contents) - You are here. EOF. (End of File)
+<div align="center"><a href="#table-of-contents">Table of Contents</a> - You are here. End of File.</div>
 
-- [Who am I?](#who-am-i) - About me, I guess.
+- [Who am I?](#who-am-i) - About me, I guess, though it's self-explanatory.
 
   - [Places I can be found on](#places-i-can-be-found-on) - Where I can be found.
-
+- [Random memes & stuff](#random-memes--stuff)
+  - [meme sources](#meme-sources)
 
 <div align="center">
   
   ## Who am I?
-I'm Zydrolic, formerly ImARealDogNow, I used to have much older yet cringier names, however I wish to move on from them.
-<br>I'm Hungarian, I really do not like puns based on country names, please don't do them, they aren't funny.<br>
-I am terrible at code, thus I mainly suggest, correct grammar in things, do minor changes and bugtest.
-### Places I can be found on
-[Scratch (Main)](https://scratch.mit.edu/users/Scynth/) - [Scratch (Forums)](https://scratch.mit.edu/users/Zydrolic) - [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary) - [Internetometer](https://internetometer.com/give/50029) (Internetometer is just a leaderboard of how many people clicked a button for you.)
+  Zy!<br>
+(Zydrolic)<br>
+![pfp](https://github.com/Zydrolic/Zydrolic/assets/150537842/11d9b1e6-8774-4040-8be7-ef26ed9d04e1)<br>
+14 year old Hungarian lawyer-wannabe with ADHD that doesn't like puns based off countries, has darkish humour, is bad at coding thus tests/bugtests and/or searches for bugs, fixes really obvious minor things, though I'm unreliable at even that.
 
-I'm also on a meme sharing website I cannot share if I wish to keep my github share-able on Scratch, however on there I am called "Zy." with the dot. Nothing else.
-<br>If you don't see my github on Scratch, that is possibly because I forked something for a PR or for whatever reason that nobody can name on Scratch because of [this policy](https://scratch.mit.edu/discuss/topic/284272/).
+Horrible at decisions, thus I sometimes either spin a wheel or ask someone else.
+
+### Places I can be found on
+[Scratch (Forums)](https://scratch.mit.edu/users/Zydrolic) - [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary)
+<div align="center">
+  <a href="http://internetometer.com/give/50029">
+    <img src="http://internetometer.com/image/50029.png" alt="count">
+  </a>
+</div>
+
 # Random memes & stuff
 
-![I want to devour a Dango](https://github.com/Scythn/Scythn/assets/150537842/1f0587fc-b74c-468e-a80c-0ceb1ca1f91d)
+![Dango](https://github.com/Scythn/Scythn/assets/150537842/1f0587fc-b74c-468e-a80c-0ceb1ca1f91d)
 ## meme sources
-https://scratch.mit.edu/users/Zydrolic/#comments-296965111 - My forum alt, by the way, or so you'd call me on here, I guess.
+https://scratch.mit.edu/users/Zydrolic/#comments-296965111
