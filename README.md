@@ -25,7 +25,8 @@ Call me Zydrolic (Zy or Zy! (with exclamation mark) for short), I'm a 14 year ol
 Horrible at decisions, thus I sometimes either spin a wheel or ask someone else.
 
 ### Places I can be found on
-[Scratch (Forums)](https://scratch.mit.edu/users/Zydrolic) - [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary)
+[Scratch (Forums)](https://scratch.mit.edu/users/Zydrolic) - [Snap! Forums](https://forum.snap.berkeley.edu/u/zydrolic_is_lazy/summary)<br>
+I am the mostly on Scratch, if you need to contact me, slide a comment [here](https://scratch.mit.edu/users/OneShotNik0/). If I don't budge in atleast a day, paste it to my forum alt.
 <div align="center">
   <a href="http://internetometer.com/give/50029">
     <img src="http://internetometer.com/image/50029.png" alt="count">
