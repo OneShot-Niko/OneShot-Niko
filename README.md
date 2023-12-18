@@ -18,10 +18,8 @@
 <div align="center">
   
   ## Who am I?
-  Zy!<br>
-(Zydrolic)<br>
-![pfp](https://github.com/Zydrolic/Zydrolic/assets/150537842/11d9b1e6-8774-4040-8be7-ef26ed9d04e1)<br>
-14 year old Hungarian lawyer-wannabe with ADHD that is a certified idiot, doesn't like puns based off countries, has darkish humour, is bad at coding thus tests/bugtests and/or searches for bugs, fixes really obvious minor things.
+
+Call me Zydrolic (Zy or Zy! (with exclamation mark) for short), I'm a 14 year old Hungarian lawyer-wannabe with ADHD that is a certified idiot, doesn't like puns based off countries, has darkish humour, is bad at coding thus tests/bugtests and/or searches for bugs, fixes really obvious minor things.
 <br>Spoiler alert: Unreliable at all of the above.
 
 Horrible at decisions, thus I sometimes either spin a wheel or ask someone else.
