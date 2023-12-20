@@ -3,9 +3,11 @@
   <a href="https://github.com/Zydrolic">
     <img src="https://github.com/Scythn/Scythn/assets/150537842/9631e54a-905b-440e-895d-3685d2308f22" alt="Logo">
   </a>
-  
   # Table of Contents
 </div>
+
+> [!NOTE]
+> I changed my username from Zydrolic to OneShot-Niko, don't feel like using Zydrolic as a pseudonym that much anymore.
 
 <div align="center"><a href="#table-of-contents">Table of Contents</a> - You are here. End of File.</div>
 
