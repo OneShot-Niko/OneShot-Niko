@@ -3,6 +3,8 @@
   <a href="https://github.com/Zydrolic">
     <img src="https://github.com/Scythn/Scythn/assets/150537842/9631e54a-905b-440e-895d-3685d2308f22" alt="Logo">
   </a>
+  <br>
+
   # Table of Contents
 </div>
 
