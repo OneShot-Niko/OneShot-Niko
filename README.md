@@ -23,7 +23,7 @@
   
   ## Who am I?
 
-Call me Zydrolic (Zy or Zy! (with exclamation mark) for short) or Niko (since new pseudonym), I'm a 14 year old Hungarian lawyer-wannabe with ADHD that is a certified idiot, doesn't like puns based off countries, has darkish humour, is bad at coding thus tests/bugtests and/or searches for bugs, fixes really obvious minor things.
+Call me Zydrolic (Zy or Zy! (with exclamation mark) for short) or Niko (since new pseudonym), I'm a Hungarian lawyer-wannabe with ADHD that is a certified idiot, doesn't like puns based off countries, has darkish humour, is bad at coding thus tests/bugtests and/or searches for bugs, fixes really obvious minor things.
 <br>Spoiler alert: Unreliable at all of the above.
 
 Horrible at decisions, thus I sometimes either spin a wheel or ask someone else.
