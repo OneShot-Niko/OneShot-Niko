@@ -1,9 +1,5 @@
-<div align="center">redoing this in a bit<br>
-  I am the mostly on Scratch, if you need to contact me, slide a comment <a href="https://scratch.mit.edu/users/OneShotNik0/">here</a>. If I don't budge in atleast a day, paste it to my forum alt. (<a href="https://scratch.mit.edu/users/Zydrolic/">Zydrolic</a>)<br>
-Call me Niko, Zy or Chris.</div>
-
-<div align="center">
-  <a href="http://internetometer.com/give/50029">
-    <img src="http://internetometer.com/image/50029.png" alt="count">
-  </a>
-</div>
+<div align=center>
+<img src="https://github.com/OneShot-Niko/OneShot-Niko/assets/150537842/72da0cdc-7b6b-4536-8759-1db6db7428bd" alt="no title">
+<h2>other things</h2>
+<p><a href="https://scratch.mit.edu/users/Zydrolic/">Scratch (Forums)</a> - <a href="https://scratch.mit.edu/users/OneShotNik0/">Scratch (Main)</a></p>
+<img src="http://internetometer.com/image/50029.png" alt="Internetometer">
