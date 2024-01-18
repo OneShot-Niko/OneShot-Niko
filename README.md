@@ -1,4 +1,4 @@
-Indefinitely inactive on other platforms. Still on here, sometimes. For info on that, read [these comments](https://scratch.mit.edu/users/Zydrolic/#comments-307902149)
+Indefinitely inactive on other platforms (kind of). Still on here more than other places though, sometimes. For info on that, read [these comments](https://scratch.mit.edu/users/Zydrolic/#comments-307902149)
 
 
 
