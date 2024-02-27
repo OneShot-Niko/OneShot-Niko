@@ -1,5 +1,4 @@
 <div align=center>
-<img src="https://github.com/OneShot-Niko/OneShot-Niko/assets/150537842/72da0cdc-7b6b-4536-8759-1db6db7428bd" alt="no title">
+<p>I exist.</p><s><sub>i think</sub></s>
 <h2>other things</h2>
-<p><a href="https://scratch.mit.edu/users/Zydrolic/">Scratch (Forums)</a> - <a href="https://scratch.mit.edu/users/OneShotNik0/">Scratch (Main)</a></p>
-<img src="http://internetometer.com/image/50029.png" alt="Internetometer">
+<a href='http://internetometer.com/give/50384'><img src='http://internetometer.com/image/50384.png'/></a>
